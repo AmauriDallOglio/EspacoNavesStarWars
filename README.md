@@ -1,3 +1,3 @@
 # ControleAcessoEstrelaDaMorte
-Projeto para ajudar na explicação do conteúdo de introdução ao SQL Server na live de 08/02/2021 da Digital Innovation One.
-Por favor, não siga este projeto como modelo, ele foi feito de forma simplória para ajudar na explicação.
+
+Neste desafio o expert cria um gerenciador de espaço naves do Star Wars modelando um banco de dados em SQL Server. Sua missão será entregar os scripts de criação das tabelas que compõem a estrutura desse banco de dados. Nesse sentido, você pode organizar esse repositório da forma como preferir... Dica: organizar tudo em seu README.md pode ser uma alternativa bem rápida e efetiva, principalmente porque o GitHub provê uma interface bem simples e intuitiva para isso.
