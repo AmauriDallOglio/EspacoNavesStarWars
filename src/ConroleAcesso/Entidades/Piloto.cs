@@ -9,7 +9,7 @@ namespace ConroleAcesso.Entidades
         public string AnoNascimento { get; set; }
         public int IdPlaneta { get; set; }
 
-        //Relacionamentos
+    
         public Planeta Planeta { get; set; }
         public List<Nave> Naves { get; set; }
     }
